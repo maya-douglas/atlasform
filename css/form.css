@@ -11,8 +11,10 @@
 #wrapper {
 	width: 60%;
 	margin-left:4%;
-  background-color: #D3D3D3;
+  background-color: #D9BDC5;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
 
 div#formcol1 {
 
@@ -66,6 +68,7 @@ div#formcol1 input {
 	margin:2em 0;
 	float:right;
 	width:70%;
+	background-color: #BCAF9C;
 }
 
 label {
@@ -79,10 +82,10 @@ label {
 	list-style:none;
 }
 select:focus, select:active, input:focus, input:active, input:focus + label, input:active + label, label[for]:focus, label[for]:active {
-color: #FFF !important;
-background-color: #BB3D2F !important;}
+color: #D9BDC5 !important;
+background-color: #69626d !important;}
 #formcol1 input.reqfield {
-	background:#FF9;
+	background:#BCAF9C;
 }
 
 
